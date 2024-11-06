@@ -1,0 +1,17 @@
+* {
+    background-color: beige;
+}
+
+.link {
+    font-size: large;
+}
+
+.header {
+    font-weight: bold;
+}
+
+p,
+ol,
+ul {
+    font-size: larger;
+}
